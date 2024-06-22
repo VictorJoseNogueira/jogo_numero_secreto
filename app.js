@@ -2,7 +2,7 @@ let lista_numeros_sorteados = [];
 let verde = "text_verde";
 let vermelho = "text_vermelho";
 let tentativas = 1;
-let numero_limite = 100;
+let numero_limite = 10;
 let numero_secreto = numero_aleatorio();
 let chute = null;
 
